@@ -1,0 +1,35 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteGlobal.master.cs" Inherits="SearchEngine.SiteGlobal" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Search Engine Project</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="App_Themes/BootStrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="App_Themes/sticky-footer.css" rel="stylesheet" />
+    <link href="App_Themes/mystyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <footer class="footer">
+        <div class="container">
+            <p class="text-muted">Alireza Khanshan<br />
+                &copy;2016&nbsp;IUST</p>
+        </div>
+    </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="App_Themes/BootStrap/js/bootstrap.min.js"></script>
+    <script src="js/jquery.twbsPagination.js" type="text/javascript"></script>
+    <script src="js/main.js" type="text/javascript"></script>
+</body>
+</html>

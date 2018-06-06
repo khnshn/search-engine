@@ -1,0 +1,16 @@
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\bin\Debug\Crawler.exe.config
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\bin\Debug\Crawler.exe
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\bin\Debug\Crawler.pdb
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\bin\Debug\LiteDB.dll
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\bin\Debug\LiteDB.xml
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\obj\Debug\Crawler.exe
+C:\Users\asus\Source\Repos\WebMining-SearchEngine\SearchEngine\Crawler\obj\Debug\Crawler.pdb
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\bin\Debug\Crawler.exe.config
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\bin\Debug\Crawler.exe
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\bin\Debug\Crawler.pdb
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\bin\Debug\LiteDB.dll
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\bin\Debug\LiteDB.xml
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\obj\Debug\Crawler.exe
+D:\Alireza\Educating\my_programming\my-works\searchengine\Crawler\obj\Debug\Crawler.pdb
